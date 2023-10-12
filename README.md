@@ -8,10 +8,10 @@
 
 ## My Skills 🧠
 
-### [Communication]
-### [Leadership]
-### [Problem solving]
-### [Teamwork]
+- [Communication]
+- [Leadership]
+- [Problem solving]
+- [Teamwork]
 
 ## Featured Projects 💻
 
