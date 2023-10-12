@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello 👋
+## My name is Kostas 🎈
 
-<!--
-**GamersOr/GamersOr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning: **JavaScript**
+- 🔭 Working on: **KURIAME.LT**
+- 🌍 Languages: **LT, EN**
+- 📫 How to reach me: **kostas@gamersor.lt**
 
-Here are some ideas to get you started:
+## My Skills 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Communication]
+### [Leadership]
+### [Problem solving]
+### [Teamwork]
+
+## Featured Projects 💻
+
+### [KURIAME.LT] (https://kuriame.lt/)
+### [MLIST.LT] (https://mlist.lt/)
+### [GARSAS Music] (https://garsas.cloud/)
+### [EMTY Kubas] (https://emtykubas.lt/)
+
+## Get in Touch 📬
+
+- **[Personal Website]**(gamersor.lt)
+- **[LinkedIn]**(https://www.linkedin.com/in/kostas-kubilius/)
+- **[Twitter]**(https://twitter.com/Gamers85373494)
