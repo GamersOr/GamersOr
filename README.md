@@ -4,7 +4,7 @@
 - 🌱 Currently learning: **JavaScript**
 - 🔭 Working on: **KURIAME.LT**
 - 🌍 Languages: **LT, EN**
-- 📫 How to reach me: **kostas@gamersor.lt**
+- 📫 How to reach me: **kostas@gamersor.xyz**
 
 ## My Skills 🧠
 
@@ -15,13 +15,12 @@
 
 ## Featured Projects 💻
 
-### [KURIAME.LT] (https://kuriame.lt/)
-### [MLIST.LT] (https://mlist.lt/)
-### [GARSAS Music] (https://garsas.cloud/)
-### [EMTY Kubas] (https://emtykubas.lt/)
+### https://kuriame.lt/
+### https://mlist.lt/
+### https://emtykubas.lt/
 
 ## Get in Touch 📬
 
-- **[Personal Website]**(gamersor.lt)
+- **[Personal Website]**(gamersor.xyz)
 - **[LinkedIn]**(https://www.linkedin.com/in/kostas-kubilius/)
 - **[Twitter]**(https://twitter.com/Gamers85373494)
